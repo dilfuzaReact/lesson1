@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.heading{
+   width: 240px;
+   margin: 30px auto;
+   background-color: rgb(26, 184, 184);
+   text-align: center;
+   color: chartreuse;
+   border-radius: 25px;
+}
+ .wrapper{
+   /* margin: 0 auto; */
+   margin: 35px 55px;
+    width: 900px;
+    height: 600px;
+    border: 2px solid rgb(224, 30, 69);
+    color: blue;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 35px;
+ }
+ .wrapper h4{
+    color:rgb(2, 12, 30);
+ }
+ .container{
+    color: green;
+    width: 100%;
+    text-size-adjust: 40px;
+ }
